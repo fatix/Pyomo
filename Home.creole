@@ -1,8 +1,8 @@
-** Welcome to the Pyomo wiki!
+**Welcome to the Pyomo wiki!**
 
 ----
 
-* Pyomo on Neos Server https://github.com/OptimizationExpert/Pyomo/blob/main/NEOS%20Pyomo.ipynb 
+* **Pyomo on Neos Server** https://github.com/OptimizationExpert/Pyomo/blob/main/NEOS%20Pyomo.ipynb 
 
 * [Maximum number of points with min specified Distance](https://lnkd.in/emBBMQTf)
 
