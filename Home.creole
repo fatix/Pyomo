@@ -32,3 +32,5 @@
 
 * Vertex coloring https://github.com/OptimizationExpert/Pyomo/blob/main/vertexcoloring.ipynb 
 
+* [[https://github.com/OptimizationExpert/Pyomo/blob/main/Easter%20Photo.ipynb|Easter photo]] using Pyomo https://github.com/OptimizationExpert/Pyomo/blob/main/Easter%20Photo.ipynb 
+
