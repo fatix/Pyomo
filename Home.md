@@ -1,8 +1,8 @@
-**Welcome to the Pyomo wiki!**
+**Welcome to the Pyomo wiki!** [Udemy course](https://www.udemy.com/course/optimization-in-python/?couponCode=A23DCEAA234271719B3E)
 
 ----
 
-* **Pyomo on Neos Server** https://github.com/OptimizationExpert/Pyomo/blob/main/NEOS%20Pyomo.ipynb 
+* [Pyomo on Neos Server](https://github.com/OptimizationExpert/Pyomo/blob/main/NEOS%20Pyomo.ipynb )
 
 * [Maximum number of points with min specified Distance](https://lnkd.in/emBBMQTf)
 
@@ -12,9 +12,9 @@
 
 * [Island Detection in Graphs](https://www.linkedin.com/pulse/island-decetion-graphs-via-pyomo-alireza-soroudi/?trackingId=1sI6%2B2gSQQ%2BnPpYhGyTpcQ%3D%3D)
 
-* 7Seen modeling in Pyomo https://github.com/OptimizationExpert/Pyomo/blob/main/7seenPyomo.ipynb 
+* [7Seen Modeling in Pyomo](https://github.com/OptimizationExpert/Pyomo/blob/main/7seenPyomo.ipynb)
 
-* April fool's https://github.com/OptimizationExpert/Pyomo/blob/main/April%20Fools%20day%20max%20independent%20set.ipynb 
+* [April fool's](https://github.com/OptimizationExpert/Pyomo/blob/main/April%20Fools%20day%20max%20independent%20set.ipynb)  
 
 * Critical Node detection https://github.com/OptimizationExpert/Pyomo/blob/main/CND-github.ipynb
 
