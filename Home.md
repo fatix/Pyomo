@@ -1,6 +1,8 @@
 **Welcome to the Pyomo wiki!** [Udemy course](https://www.udemy.com/course/optimization-in-python/?couponCode=A23DCEAA234271719B3E)
+![pyomo](http://images.squarespace-cdn.com/content/v1/5492d7f4e4b00040889988bd/1419973085209-9127JQ4DLEDQLNVH4FKT/PyomoNewBlueDense.png?format=500w)
 
-----
+
+***
 
 * [Pyomo on Neos Server](https://github.com/OptimizationExpert/Pyomo/blob/main/NEOS%20Pyomo.ipynb )
 
