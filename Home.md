@@ -16,7 +16,7 @@
 
 * [April fool's](https://github.com/OptimizationExpert/Pyomo/blob/main/April%20Fools%20day%20max%20independent%20set.ipynb)  
 
-* Critical Node detection https://github.com/OptimizationExpert/Pyomo/blob/main/CND-github.ipynb
+* [Critical Node detection] (https://github.com/OptimizationExpert/Pyomo/blob/main/CND-github.ipynb)
 
 * Edge coloring https://github.com/OptimizationExpert/Pyomo/blob/main/Edgecoloring.ipynb
 
