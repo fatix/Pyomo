@@ -16,21 +16,21 @@
 
 * [April fool's](https://github.com/OptimizationExpert/Pyomo/blob/main/April%20Fools%20day%20max%20independent%20set.ipynb)  
 
-* [Critical Node detection] (https://github.com/OptimizationExpert/Pyomo/blob/main/CND-github.ipynb)
+* [Critical Node detection](https://github.com/OptimizationExpert/Pyomo/blob/main/CND-github.ipynb)
 
-* Edge coloring https://github.com/OptimizationExpert/Pyomo/blob/main/Edgecoloring.ipynb
+* [Edge coloring](https://github.com/OptimizationExpert/Pyomo/blob/main/Edgecoloring.ipynb)
 
-* Empty bucket problem https://github.com/OptimizationExpert/Pyomo/blob/main/Empty-Bucket-Github.ipynb 
+* [Empty bucket problem](https://github.com/OptimizationExpert/Pyomo/blob/main/Empty-Bucket-Github.ipynb)
 
-* Christmas gift https://github.com/OptimizationExpert/Pyomo/blob/main/Gift-Christmas.ipynb 
+* [Christmas gift](https://github.com/OptimizationExpert/Pyomo/blob/main/Gift-Christmas.ipynb) 
 
-* Graph island detection https://github.com/OptimizationExpert/Pyomo/blob/main/Graph-Island.ipynb 
+* [Graph island detection](https://github.com/OptimizationExpert/Pyomo/blob/main/Graph-Island.ipynb) 
 
-* Longest common sequece https://github.com/OptimizationExpert/Pyomo/blob/main/LCS-git.ipynb 
+* [Longest common sequece](https://github.com/OptimizationExpert/Pyomo/blob/main/LCS-git.ipynb) 
 
-* Bilevel Optimization in Pyomo https://github.com/OptimizationExpert/Pyomo/blob/main/bilevel-github-single-bilevel-multi-EX2.ipynb 
+* [Bilevel Optimization in Pyomo](https://github.com/OptimizationExpert/Pyomo/blob/main/bilevel-github-single-bilevel-multi-EX2.ipynb) 
 
-* Vertex coloring https://github.com/OptimizationExpert/Pyomo/blob/main/vertexcoloring.ipynb 
+* [Vertex coloring](https://github.com/OptimizationExpert/Pyomo/blob/main/vertexcoloring.ipynb) 
 
-* Easter photo arrangement https://github.com/OptimizationExpert/Pyomo/blob/main/Easter%20Photo.ipynb 
+* [Easter photo arrangement](https://github.com/OptimizationExpert/Pyomo/blob/main/Easter%20Photo.ipynb) 
 
